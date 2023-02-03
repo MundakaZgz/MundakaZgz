@@ -1,4 +1,3 @@
-[![Twitter Badge](https://img.shields.io/badge/-@mundakzgz-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mundakazgz)](https://twitter.com/mundakazgz) [![Linkedin Badge](https://img.shields.io/badge/-MundakaZgz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mundakazgz)](https://www.linkedin.com/in/mundakazgz)
 ### Hi there 👋, I am MundakaZgz
 Computer engineer, manager and developer. Through all these years I have earned experience developing software and leading teams. I always look for the perfect balance between delivery and code quality using Agile methodologies or waterfall.
 My current challenge at ING is developing new products, making already existing products more resilient, reducing the technical debt and developing professionally the members of my tribe.
