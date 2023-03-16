@@ -20,6 +20,7 @@ education:
   - Computer Engineer @ Ecole polytechnique fédérale de Lausanne (Erasmus program)
   - Master in Project Management @ EAE Business School
   - Digital Plus Program, Leadership & Innovation @ MIT
+  - Bootcamp Tech Management & Leadership @ GeeksHub Academy
 previous_jobs:
   - Developer to IT Area Lead @ ING Spain & Portugal
   - Development Manager @ Valant
