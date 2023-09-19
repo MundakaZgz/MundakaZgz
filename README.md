@@ -9,7 +9,7 @@ I am a manager who loves coding and I am very aware of the real issues my team h
 ```yaml
 name: Jose Antonio Herrero
 location: Madrid (Spain)
-current_job: IT Area Lead @ ING Spain & Portugal
+current_job: Tribe Lead @ ING Spain & Portugal
 company: ING Spain & Portugal
 languages:
   - Spanish (native)
