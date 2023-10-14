@@ -27,12 +27,6 @@ previous_jobs:
   - Developer to Team Lead @ Deloitte
 ```
 
-### My stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MundakaZgz)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MundakaZgz&show_icons=true)  
-
 <!--
 **MundakaZgz/MundakaZgz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
