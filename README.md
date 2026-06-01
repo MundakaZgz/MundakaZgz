@@ -22,7 +22,7 @@ education:
   - Digital Plus Program, Leadership & Innovation @ MIT
   - Bootcamp Tech Management & Leadership @ GeeksHub Academy
 previous_jobs:
-  - Developer to IT Area Lead @ ING Spain & Portugal
+  - Developer to Engineering Platform Tribe Lead @ ING Spain & Portugal
   - Development Manager @ Valant
   - Developer to Team Lead @ Deloitte
 ```
