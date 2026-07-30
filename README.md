@@ -1,41 +1,171 @@
-### Hi there 👋, I am MundakaZgz
-Computer engineer, manager and developer. Through all these years I have earned experience developing software and leading teams. I always look for the perfect balance between delivery and code quality using Agile methodologies or waterfall.
-My current challenge at ING is developing new products, making already existing products more resilient, reducing the technical debt and developing professionally the members of my tribe.
-I am an innovative person with a lot of motivation to carry out new initiatives and passionate about doing the right things right.
-I am a manager who loves coding and I am very aware of the real issues my team has. That's why I'm a manager in the trenches.
+# Hi, I'm Jose Antonio Herrero 👋
 
-### My CV (sort of)
+## I build AI-powered engineering platforms that help developers build better software.
+
+I'm a software engineer who evolved into an engineering leader without ever leaving engineering behind.
+
+During the last 15+ years I've designed software, built platforms, led engineering organizations and improved the way hundreds of developers build and deliver software.
+
+Today my mission is simple:
+
+> **Make software engineers dramatically more productive by combining Platform Engineering with Artificial Intelligence.**
+
+I believe AI is changing software engineering more profoundly than cloud computing did, and I want to help build that future.
+
+---
+
+# What I do
+
+### 🤖 AI for Software Engineering
+
+Building intelligent tools, agents and workflows that augment developers instead of replacing them.
+
+### 🚀 Platform Engineering
+
+Creating internal developer platforms that make the easiest path the right path.
+
+### 🏗 Software Architecture
+
+Designing systems that remain understandable, evolvable and resilient as they grow.
+
+### 📈 Engineering Leadership
+
+Helping engineering teams deliver faster without sacrificing quality, sustainability or developer happiness.
+
+---
+
+# What I'm exploring
+
+* AI Engineering
+* Agentic Development
+* MCP (Model Context Protocol)
+* AI-powered SDLC
+* Developer Experience (DevEx)
+* Engineering Productivity
+* Platform Engineering
+* Legacy Modernization using AI
+* RAG architectures
+* LLM Evaluation
+* AI-assisted Software Architecture
+
+---
+
+# Experience
 
 ```yaml
-name: Jose Antonio Herrero
-location: Madrid (Spain)
-languages:
-  - Spanish (native)
-  - English (Proficient)
-  - French (Advanced)
-education:
-  - Computer Engineer @ Universidad de Zaragoza
-  - Computer Engineer @ Ecole polytechnique fédérale de Lausanne (Erasmus program)
-  - Master in Project Management @ EAE Business School
-  - Digital Plus Program, Leadership & Innovation @ MIT
-  - Bootcamp Tech Management & Leadership @ GeeksHub Academy
-previous_jobs:
-  - Developer to Engineering Platform Tribe Lead @ ING Spain & Portugal
-  - Development Manager @ Valant
-  - Developer to Team Lead @ Deloitte
+experience: 15+ years
+
+current_focus:
+  - Artificial Intelligence
+  - Platform Engineering
+  - Engineering Productivity
+
+roles:
+  - Engineering Platform Tribe Lead
+  - Engineering Manager
+  - Software Architect
+  - Software Engineer
+
+industries:
+  - Banking
+  - Consulting
+  - Enterprise Software
 ```
 
-<!--
-**MundakaZgz/MundakaZgz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# Toolbox
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages
+
+```
+Java • Python • JavaScript • TypeScript
+```
+
+## Platform Engineering
+
+```
+GitHub
+GitHub Actions
+Jenkins
+Docker
+Kubernetes
+Terraform
+```
+
+## Cloud
+
+```
+Azure
+Google Cloud
+```
+
+## Engineering
+
+```
+CI/CD
+Developer Experience
+Observability
+SRE
+Microservices
+Event-Driven Architecture
+```
+
+## AI
+
+```
+LLMs
+AI Agents
+RAG
+Prompt Engineering
+MCP
+```
+
+---
+
+# Current Projects
+
+* 🤖 AI agents for software engineering
+* 🧠 AI-assisted architecture decisions
+* ⚙️ Engineering productivity tooling
+* 🔍 Legacy modernization with LLMs
+* 📚 Continuous learning and experimentation
+
+---
+
+# Principles
+
+* Developers deserve great tools.
+* Simplicity scales better than complexity.
+* Measure outcomes, not activity.
+* Platform teams exist to enable, not to control.
+* AI should amplify engineers, not replace them.
+* Great architecture is invisible to developers.
+* Leadership starts with technical credibility.
+
+---
+
+# Currently learning
+
+* Advanced AI Engineering
+* Agentic architectures
+* Evaluation frameworks for LLM applications
+* Building production-grade AI systems
+
+---
+
+# Outside of work
+
+When I'm not building software you'll probably find me:
+
+* 🎨 Painting Warhammer miniatures
+* ⚔️ Reading Warhammer 40K lore
+* 🏃 Training for my next challenge
+* ☕ Experimenting with coffee
+* 🌱 Learning something new
+
+---
+
+> *The best engineering organizations don't just build software.*
+>
+> *They build environments where great software emerges naturally.*
