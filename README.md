@@ -1,171 +1,201 @@
 # Hi, I'm Jose Antonio Herrero 👋
 
-## I build AI-powered engineering platforms that help developers build better software.
+## Engineering leader, architect and builder focused on Platform Engineering, Software Architecture and Applied AI.
 
-I'm a software engineer who evolved into an engineering leader without ever leaving engineering behind.
+I have spent 16+ years building software, designing architectures, modernizing complex systems and leading engineering organizations — while staying close to the technical problems that actually constrain delivery.
 
-During the last 15+ years I've designed software, built platforms, led engineering organizations and improved the way hundreds of developers build and deliver software.
+My approach is simple:
 
-Today my mission is simple:
+> **Understand the problem. Find the constraint. Build the capability needed to overcome it.**
 
-> **Make software engineers dramatically more productive by combining Platform Engineering with Artificial Intelligence.**
+Over the years, that has meant everything from modernizing critical Java platforms and building engineering standards to scaling Internal Developer Platforms across ~50 squads and leading engineering organizations of up to ~220 people.
 
-I believe AI is changing software engineering more profoundly than cloud computing did, and I want to help build that future.
+Today, I'm particularly interested in how Artificial Intelligence can become the next capability layer for software engineering.
 
 ---
 
-# What I do
-
-### 🤖 AI for Software Engineering
-
-Building intelligent tools, agents and workflows that augment developers instead of replacing them.
-
-### 🚀 Platform Engineering
-
-Creating internal developer platforms that make the easiest path the right path.
+# What I work on
 
 ### 🏗 Software Architecture
 
 Designing systems that remain understandable, evolvable and resilient as they grow.
 
+### 🚀 Platform Engineering
+
+Building platforms, golden paths and engineering capabilities that reduce cognitive load and make the right way the easiest way.
+
+### 🤖 Applied AI for Software Engineering
+
+Exploring how LLMs, RAG, agents and AI-assisted workflows can improve software delivery, architecture and developer productivity.
+
 ### 📈 Engineering Leadership
 
-Helping engineering teams deliver faster without sacrificing quality, sustainability or developer happiness.
+Building technical capabilities, creating context and enabling engineering organizations to solve harder problems independently.
 
 ---
 
-# What I'm exploring
+# Selected impact
 
-* AI Engineering
-* Agentic Development
-* MCP (Model Context Protocol)
-* AI-powered SDLC
-* Developer Experience (DevEx)
-* Engineering Productivity
-* Platform Engineering
-* Legacy Modernization using AI
-* RAG architectures
-* LLM Evaluation
-* AI-assisted Software Architecture
+- Led engineering organizations of up to **~220 engineers**.
+- Built and scaled an Internal Developer Platform across **~50 squads**.
+- Reduced production-ready microservice provisioning from **~2 weeks to <1 hour**.
+- Defined GitHub Copilot adoption for **~500 internal developers**.
+- Improved conversational-system conversion from **~50% to ~80%**.
+- Modernized **16 instances of a critical Java platform** with no customer impact.
+- Reduced certificate-expiration incidents from **~1 per month to zero**.
+
+---
+
+# Current focus
+
+I'm currently deepening my work in Applied AI through hands-on projects and a Master in AI Development.
+
+Areas I'm exploring:
+
+- AI Engineering
+- LLM applications
+- RAG architectures
+- AI Agents
+- Model Context Protocol (MCP)
+- LLM evaluation
+- AI-assisted Software Architecture
+- AI-powered SDLC
+- Developer Experience
+- Engineering Productivity
+- Legacy modernization with AI
 
 ---
 
 # Experience
 
 ```yaml
-experience: 15+ years
+experience: 16+ years
 
-current_focus:
-  - Artificial Intelligence
+focus:
+  - Software Architecture
   - Platform Engineering
-  - Engineering Productivity
+  - Applied AI
+  - Engineering Leadership
 
-roles:
-  - Engineering Platform Tribe Lead
-  - Engineering Manager
-  - Software Architect
+background:
   - Software Engineer
+  - Software Architect
+  - Engineering Manager
+  - Engineering Platform Tribe Lead
 
 industries:
   - Banking
-  - Consulting
   - Enterprise Software
+  - Consulting
 ```
 
 ---
 
-# Toolbox
+# Technical toolbox
 
 ## Languages
 
-```
-Java • Python • JavaScript • TypeScript
+```text
+Java
+JavaScript / TypeScript
+Python
 ```
 
-## Platform Engineering
+## Architecture & Engineering
 
+```text
+Distributed Systems
+Microservices
+Event-Driven Architecture
+APIs
+Hexagonal Architecture
+CI/CD
+Observability
+SRE
+Developer Experience
 ```
+
+## Platform & Cloud
+
+```text
 GitHub
 GitHub Actions
 Jenkins
 Docker
-Kubernetes
-Terraform
+Kubernetes / OpenShift
+Cloud Platforms
 ```
 
-## Cloud
+## Applied AI
 
-```
-Azure
-Google Cloud
-```
-
-## Engineering
-
-```
-CI/CD
-Developer Experience
-Observability
-SRE
-Microservices
-Event-Driven Architecture
-```
-
-## AI
-
-```
+```text
 LLMs
-AI Agents
 RAG
+AI Agents
 Prompt Engineering
 MCP
+LLM Evaluation
 ```
 
----
-
-# Current Projects
-
-* 🤖 AI agents for software engineering
-* 🧠 AI-assisted architecture decisions
-* ⚙️ Engineering productivity tooling
-* 🔍 Legacy modernization with LLMs
-* 📚 Continuous learning and experimentation
+> Python and modern AI technologies are part of my current hands-on learning and project work; my deepest professional experience remains in software engineering, architecture and engineering platforms.
 
 ---
 
-# Principles
+# Projects
 
-* Developers deserve great tools.
-* Simplicity scales better than complexity.
-* Measure outcomes, not activity.
-* Platform teams exist to enable, not to control.
-* AI should amplify engineers, not replace them.
-* Great architecture is invisible to developers.
-* Leadership starts with technical credibility.
+This section will evolve as I publish current AI and software-engineering work.
+
+I'm particularly interested in projects that combine:
+
+- AI agents with real engineering workflows
+- RAG and knowledge systems
+- AI-assisted architecture decisions
+- Legacy modernization
+- Engineering productivity
+- Measurable evaluation of AI systems
+
+---
+
+# Engineering principles
+
+- Technology is a means, not the objective.
+- Understand the constraint before optimizing the system.
+- Build capabilities instead of relying on heroes.
+- Developers deserve great tools.
+- Make the right path the easiest path.
+- Measure outcomes, not activity.
+- Simplicity scales better than unnecessary complexity.
+- Leadership requires technical credibility.
+- Context scales better than control.
+- AI should amplify engineers, not replace them.
 
 ---
 
 # Currently learning
 
-* Advanced AI Engineering
-* Agentic architectures
-* Evaluation frameworks for LLM applications
-* Building production-grade AI systems
+I'm currently completing a **Master in AI Development at The Big School**, with a focus on:
+
+- Generative AI
+- LLM applications
+- RAG
+- AI agents
+- MCP
+- LLM evaluation
+- AI-enhanced software development
+- Production-grade AI systems
 
 ---
 
-# Outside of work
+# Outside engineering
 
-When I'm not building software you'll probably find me:
+When I'm not building or learning, you'll probably find me:
 
-* 🎨 Painting Warhammer miniatures
-* ⚔️ Reading Warhammer 40K lore
-* 🏃 Training for my next challenge
-* ☕ Experimenting with coffee
-* 🌱 Learning something new
+- 🎨 Painting Warhammer miniatures
+- ⚔️ Exploring Warhammer 40K lore
+- 🏃 Training
+- ☕ Experimenting with coffee
+- 🌱 Learning something new
 
 ---
 
-> *The best engineering organizations don't just build software.*
->
-> *They build environments where great software emerges naturally.*
+> **Building capabilities to overcome constraints.**
